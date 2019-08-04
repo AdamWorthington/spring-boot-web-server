@@ -12,3 +12,6 @@ A basic sping boot web application based around the creation, modification, and 
 mvn compile
 mvn exec:java -Dexec.mainClass=adam.http.springboot.App
 ```
+## Postman Collection
+
+https://www.getpostman.com/collections/ec743606013cfcb712cf
